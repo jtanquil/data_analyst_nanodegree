@@ -1,0 +1,872 @@
+location,year,avg_temp
+Columbus,1743,7.46
+Columbus,1744,15.73
+Columbus,1745,6.91
+Columbus,1746,
+Columbus,1747,
+Columbus,1748,
+Columbus,1749,
+global,1750,8.72
+Columbus,1750,14.62
+Columbus,1751,15.36
+global,1751,7.98
+global,1752,5.78
+Columbus,1752,8.30
+global,1753,8.39
+Columbus,1753,14.00
+Columbus,1754,14.11
+global,1754,8.47
+Columbus,1755,11.66
+global,1755,8.36
+Columbus,1756,14.24
+global,1756,8.85
+Columbus,1757,13.62
+global,1757,9.02
+Columbus,1758,12.55
+global,1758,6.74
+Columbus,1759,13.55
+global,1759,7.99
+Columbus,1760,12.10
+global,1760,7.19
+Columbus,1761,14.52
+global,1761,8.77
+global,1762,8.61
+Columbus,1762,14.00
+global,1763,7.50
+Columbus,1763,11.94
+global,1764,8.40
+Columbus,1764,13.96
+global,1765,8.25
+Columbus,1765,13.58
+global,1766,8.41
+Columbus,1766,14.45
+global,1767,8.22
+Columbus,1767,13.22
+global,1768,6.78
+Columbus,1768,12.86
+Columbus,1769,13.73
+global,1769,7.69
+Columbus,1770,13.59
+global,1770,7.69
+global,1771,7.85
+Columbus,1771,14.48
+global,1772,8.19
+Columbus,1772,14.23
+Columbus,1773,14.37
+global,1773,8.22
+Columbus,1774,13.93
+global,1774,8.77
+global,1775,9.18
+Columbus,1775,14.86
+global,1776,8.30
+Columbus,1776,13.64
+global,1777,8.26
+Columbus,1777,13.56
+global,1778,8.54
+Columbus,1778,11.19
+global,1779,8.98
+Columbus,1779,6.06
+Columbus,1780,
+global,1780,9.43
+Columbus,1781,14.13
+global,1781,8.10
+Columbus,1782,13.65
+global,1782,7.90
+Columbus,1783,13.40
+global,1783,7.68
+global,1784,7.86
+Columbus,1784,13.35
+Columbus,1785,13.16
+global,1785,7.36
+Columbus,1786,13.70
+global,1786,8.26
+global,1787,8.03
+Columbus,1787,13.73
+global,1788,8.45
+Columbus,1788,14.24
+Columbus,1789,13.98
+global,1789,8.33
+Columbus,1790,13.89
+global,1790,7.98
+Columbus,1791,14.08
+global,1791,8.23
+Columbus,1792,13.57
+global,1792,8.09
+Columbus,1793,14.15
+global,1793,8.23
+global,1794,8.53
+Columbus,1794,14.25
+Columbus,1795,13.97
+global,1795,8.35
+Columbus,1796,13.78
+global,1796,8.27
+global,1797,8.51
+Columbus,1797,13.70
+global,1798,8.67
+Columbus,1798,14.45
+global,1799,8.51
+Columbus,1799,14.12
+global,1800,8.48
+Columbus,1800,14.02
+global,1801,8.59
+Columbus,1801,14.38
+global,1802,8.58
+Columbus,1802,14.59
+Columbus,1803,14.45
+global,1803,8.50
+global,1804,8.84
+Columbus,1804,14.39
+global,1805,8.56
+Columbus,1805,14.59
+Columbus,1806,14.06
+global,1806,8.43
+Columbus,1807,13.84
+global,1807,8.28
+global,1808,7.63
+Columbus,1808,13.81
+global,1809,7.08
+Columbus,1809,13.01
+global,1810,6.92
+Columbus,1810,13.18
+global,1811,6.86
+Columbus,1811,13.33
+global,1812,7.05
+Columbus,1812,12.44
+Columbus,1813,13.52
+global,1813,7.74
+global,1814,7.59
+Columbus,1814,13.31
+global,1815,7.24
+Columbus,1815,12.88
+global,1816,6.94
+Columbus,1816,12.43
+Columbus,1817,12.53
+global,1817,6.98
+global,1818,7.83
+Columbus,1818,13.19
+Columbus,1819,13.24
+global,1819,7.37
+global,1820,7.62
+Columbus,1820,13.25
+global,1821,8.09
+Columbus,1821,13.08
+global,1822,8.19
+Columbus,1822,14.14
+Columbus,1823,13.50
+global,1823,7.72
+global,1824,8.55
+Columbus,1824,14.03
+global,1825,8.39
+Columbus,1825,14.66
+global,1826,8.36
+Columbus,1826,14.35
+global,1827,8.81
+Columbus,1827,14.74
+global,1828,8.17
+Columbus,1828,15.57
+global,1829,7.94
+Columbus,1829,13.97
+Columbus,1830,15.23
+global,1830,8.52
+global,1831,7.64
+Columbus,1831,13.27
+Columbus,1832,14.28
+global,1832,7.45
+global,1833,8.01
+Columbus,1833,14.39
+global,1834,8.15
+Columbus,1834,14.88
+global,1835,7.39
+Columbus,1835,13.81
+Columbus,1836,13.20
+global,1836,7.70
+global,1837,7.38
+Columbus,1837,13.97
+Columbus,1838,13.36
+global,1838,7.51
+global,1839,7.63
+Columbus,1839,14.24
+global,1840,7.80
+Columbus,1840,14.43
+Columbus,1841,14.00
+global,1841,7.69
+global,1842,8.02
+Columbus,1842,14.41
+Columbus,1843,13.33
+global,1843,8.17
+global,1844,7.65
+Columbus,1844,14.48
+Columbus,1845,14.29
+Manila,1845,25.51
+global,1845,7.85
+global,1846,8.55
+Columbus,1846,14.72
+Manila,1846,26.41
+Columbus,1847,13.70
+Manila,1847,25.88
+global,1847,8.09
+Columbus,1848,14.15
+global,1848,7.98
+Manila,1848,25.68
+Columbus,1849,14.02
+San Francisco,1849,14.12
+Manila,1849,25.92
+global,1849,7.98
+Columbus,1850,14.21
+Manila,1850,25.92
+global,1850,7.90
+San Francisco,1850,13.80
+San Francisco,1851,14.39
+global,1851,8.18
+Columbus,1851,14.14
+Manila,1851,26.09
+Columbus,1852,14.19
+global,1852,8.10
+San Francisco,1852,13.81
+Manila,1852,26.02
+San Francisco,1853,14.40
+Columbus,1853,14.28
+global,1853,8.04
+Manila,1853,26.21
+Manila,1854,26.33
+San Francisco,1854,13.98
+global,1854,8.21
+Columbus,1854,14.96
+global,1855,8.11
+Columbus,1855,14.10
+San Francisco,1855,14.20
+Manila,1855,26.06
+global,1856,8.00
+Manila,1856,25.65
+San Francisco,1856,14.10
+Columbus,1856,12.84
+Manila,1857,25.81
+Columbus,1857,12.88
+San Francisco,1857,14.78
+global,1857,7.76
+Manila,1858,25.95
+Columbus,1858,14.22
+San Francisco,1858,14.19
+global,1858,8.10
+Columbus,1859,13.93
+Manila,1859,26.09
+San Francisco,1859,13.71
+global,1859,8.25
+Columbus,1860,14.11
+Manila,1860,26.01
+San Francisco,1860,13.81
+global,1860,7.96
+San Francisco,1861,14.88
+global,1861,7.85
+Manila,1861,25.84
+Columbus,1861,13.93
+global,1862,7.56
+Manila,1862,25.35
+Columbus,1862,14.06
+San Francisco,1862,14.43
+Columbus,1863,13.57
+global,1863,8.11
+San Francisco,1863,14.43
+Manila,1863,25.89
+San Francisco,1864,15.18
+global,1864,7.98
+Manila,1864,25.73
+Columbus,1864,13.24
+Columbus,1865,14.04
+global,1865,8.18
+San Francisco,1865,14.32
+Manila,1865,26.27
+global,1866,8.29
+San Francisco,1866,14.67
+Manila,1866,26.11
+Columbus,1866,13.37
+Columbus,1867,13.68
+San Francisco,1867,14.46
+Manila,1867,26.36
+global,1867,8.44
+Manila,1868,26.42
+global,1868,8.25
+Columbus,1868,13.07
+San Francisco,1868,14.25
+Manila,1869,26.37
+global,1869,8.43
+San Francisco,1869,14.57
+Columbus,1869,13.20
+San Francisco,1870,14.19
+Columbus,1870,13.91
+global,1870,8.20
+Manila,1870,26.25
+San Francisco,1871,14.34
+global,1871,8.12
+Columbus,1871,14.34
+Manila,1871,26.14
+Manila,1872,26.28
+Columbus,1872,12.89
+San Francisco,1872,14.63
+global,1872,8.19
+Manila,1873,26.18
+global,1873,8.35
+Columbus,1873,13.26
+San Francisco,1873,14.46
+global,1874,8.43
+Manila,1874,26.41
+Columbus,1874,14.45
+San Francisco,1874,14.09
+San Francisco,1875,14.76
+Columbus,1875,13.05
+global,1875,7.86
+Manila,1875,25.96
+Columbus,1876,13.56
+San Francisco,1876,14.44
+global,1876,8.08
+Manila,1876,25.73
+San Francisco,1877,15.03
+Columbus,1877,14.10
+Manila,1877,26.45
+global,1877,8.54
+Columbus,1878,14.37
+Manila,1878,26.62
+San Francisco,1878,14.37
+global,1878,8.83
+global,1879,8.17
+Manila,1879,26.14
+Columbus,1879,14.22
+San Francisco,1879,14.20
+San Francisco,1880,13.22
+Columbus,1880,14.40
+global,1880,8.12
+Manila,1880,25.86
+Manila,1881,25.90
+San Francisco,1881,14.39
+Columbus,1881,14.54
+global,1881,8.27
+San Francisco,1882,13.58
+global,1882,8.13
+Columbus,1882,14.23
+Manila,1882,26.03
+Manila,1883,25.93
+Columbus,1883,13.90
+San Francisco,1883,13.93
+global,1883,7.98
+San Francisco,1884,14.05
+global,1884,7.77
+Columbus,1884,13.68
+Manila,1884,25.44
+Manila,1885,25.77
+Columbus,1885,12.43
+San Francisco,1885,15.05
+global,1885,7.92
+Manila,1886,25.43
+San Francisco,1886,14.58
+Columbus,1886,12.91
+global,1886,7.95
+global,1887,7.91
+San Francisco,1887,14.38
+Manila,1887,25.60
+Columbus,1887,13.88
+global,1888,8.09
+San Francisco,1888,14.70
+Manila,1888,26.31
+Columbus,1888,13.46
+global,1889,8.32
+San Francisco,1889,14.81
+Columbus,1889,13.71
+Manila,1889,26.25
+global,1890,7.97
+Manila,1890,25.94
+Columbus,1890,14.58
+San Francisco,1890,14.05
+Columbus,1891,13.73
+Manila,1891,25.97
+San Francisco,1891,14.46
+global,1891,8.02
+Manila,1892,25.75
+Columbus,1892,13.22
+San Francisco,1892,14.05
+global,1892,8.07
+San Francisco,1893,13.40
+Manila,1893,25.73
+Columbus,1893,13.50
+global,1893,8.06
+global,1894,8.16
+Manila,1894,25.87
+Columbus,1894,14.25
+San Francisco,1894,13.80
+Columbus,1895,13.14
+global,1895,8.15
+Manila,1895,25.87
+San Francisco,1895,13.95
+Manila,1896,26.03
+San Francisco,1896,14.22
+Columbus,1896,14.36
+global,1896,8.21
+Manila,1897,26.54
+Columbus,1897,14.25
+San Francisco,1897,13.81
+global,1897,8.29
+global,1898,8.18
+San Francisco,1898,13.77
+Columbus,1898,14.09
+Manila,1898,26.19
+Columbus,1899,13.96
+Manila,1899,25.92
+global,1899,8.40
+San Francisco,1899,14.04
+San Francisco,1900,14.64
+global,1900,8.50
+Manila,1900,26.21
+Columbus,1900,14.27
+San Francisco,1901,14.34
+Columbus,1901,13.02
+global,1901,8.54
+Manila,1901,25.99
+Columbus,1902,13.86
+global,1902,8.30
+San Francisco,1902,14.07
+Manila,1902,26.15
+Columbus,1903,13.41
+San Francisco,1903,14.12
+global,1903,8.22
+Manila,1903,26.36
+Columbus,1904,13.17
+Manila,1904,25.78
+global,1904,8.09
+San Francisco,1904,14.50
+San Francisco,1905,14.39
+Columbus,1905,13.45
+Manila,1905,25.93
+global,1905,8.23
+Manila,1906,26.13
+Columbus,1906,14.00
+global,1906,8.38
+San Francisco,1906,14.81
+Manila,1907,26.22
+Columbus,1907,13.75
+San Francisco,1907,14.34
+global,1907,7.95
+Columbus,1908,14.48
+Manila,1908,26.28
+San Francisco,1908,14.01
+global,1908,8.19
+global,1909,8.18
+Manila,1909,26.33
+Columbus,1909,14.04
+San Francisco,1909,14.05
+global,1910,8.22
+Columbus,1910,13.54
+San Francisco,1910,14.17
+Manila,1910,26.24
+Columbus,1911,14.97
+San Francisco,1911,13.46
+global,1911,8.18
+Manila,1911,26.02
+Manila,1912,26.56
+San Francisco,1912,13.95
+Columbus,1912,13.30
+global,1912,8.17
+global,1913,8.30
+San Francisco,1913,14.38
+Columbus,1913,14.41
+Manila,1913,26.23
+San Francisco,1914,14.33
+Columbus,1914,13.79
+global,1914,8.59
+Manila,1914,26.52
+global,1915,8.59
+San Francisco,1915,14.30
+Columbus,1915,13.92
+Manila,1915,26.94
+Manila,1916,26.24
+Columbus,1916,14.06
+global,1916,8.23
+San Francisco,1916,13.61
+global,1917,8.02
+San Francisco,1917,14.06
+Manila,1917,26.14
+Columbus,1917,12.72
+Manila,1918,25.83
+global,1918,8.13
+San Francisco,1918,14.14
+Columbus,1918,14.10
+global,1919,8.38
+Manila,1919,26.51
+San Francisco,1919,13.60
+Columbus,1919,14.57
+San Francisco,1920,13.72
+global,1920,8.36
+Manila,1920,26.34
+Columbus,1920,13.50
+global,1921,8.57
+Manila,1921,26.38
+San Francisco,1921,14.24
+Columbus,1921,15.52
+San Francisco,1922,13.61
+Manila,1922,26.51
+Columbus,1922,14.93
+global,1922,8.41
+Columbus,1923,14.14
+Manila,1923,25.98
+San Francisco,1923,14.13
+global,1923,8.42
+Manila,1924,26.34
+Columbus,1924,13.08
+global,1924,8.51
+San Francisco,1924,14.10
+Manila,1925,26.10
+San Francisco,1925,14.34
+global,1925,8.53
+Columbus,1925,14.53
+global,1926,8.73
+San Francisco,1926,15.14
+Columbus,1926,13.54
+Manila,1926,26.35
+global,1927,8.52
+Manila,1927,26.42
+Columbus,1927,14.86
+San Francisco,1927,14.24
+Manila,1928,26.34
+global,1928,8.63
+Columbus,1928,13.66
+San Francisco,1928,14.32
+Manila,1929,26.14
+Columbus,1929,13.83
+global,1929,8.24
+San Francisco,1929,14.25
+Manila,1930,26.37
+global,1930,8.63
+Columbus,1930,14.35
+San Francisco,1930,14.25
+Columbus,1931,15.10
+Manila,1931,26.55
+San Francisco,1931,14.93
+global,1931,8.72
+San Francisco,1932,14.24
+global,1932,8.71
+Columbus,1932,14.68
+Manila,1932,26.19
+San Francisco,1933,13.93
+global,1933,8.34
+Manila,1933,26.29
+Columbus,1933,15.12
+Columbus,1934,14.36
+Manila,1934,25.85
+San Francisco,1934,15.31
+global,1934,8.63
+Columbus,1935,14.23
+global,1935,8.52
+San Francisco,1935,14.12
+Manila,1935,26.16
+Columbus,1936,14.38
+Manila,1936,26.39
+global,1936,8.55
+San Francisco,1936,15.13
+Columbus,1937,14.06
+global,1937,8.70
+Manila,1937,26.51
+San Francisco,1937,14.36
+San Francisco,1938,14.35
+Manila,1938,26.46
+global,1938,8.86
+Columbus,1938,15.05
+San Francisco,1939,14.81
+global,1939,8.76
+Columbus,1939,14.82
+Manila,1939,26.35
+San Francisco,1940,15.12
+Manila,1940,26.49
+Columbus,1940,13.22
+global,1940,8.76
+global,1941,8.77
+Columbus,1941,14.60
+Manila,1941,26.90
+San Francisco,1941,14.98
+global,1942,8.73
+San Francisco,1942,14.20
+Columbus,1942,14.06
+Manila,1942,26.55
+global,1943,8.76
+San Francisco,1943,14.72
+Columbus,1943,14.08
+Manila,1943,26.34
+Manila,1944,26.42
+Columbus,1944,14.46
+San Francisco,1944,14.17
+global,1944,8.85
+Columbus,1945,14.32
+global,1945,8.58
+Manila,1945,26.23
+San Francisco,1945,14.41
+Manila,1946,26.76
+Columbus,1946,14.97
+global,1946,8.68
+San Francisco,1946,13.83
+global,1947,8.80
+Manila,1947,26.52
+Columbus,1947,13.94
+San Francisco,1947,14.51
+global,1948,8.75
+Columbus,1948,14.47
+San Francisco,1948,13.65
+Manila,1948,26.39
+Columbus,1949,15.12
+global,1949,8.59
+San Francisco,1949,13.90
+Manila,1949,26.63
+San Francisco,1950,14.66
+Manila,1950,26.61
+Columbus,1950,14.09
+global,1950,8.37
+global,1951,8.63
+Manila,1951,26.78
+Columbus,1951,14.41
+San Francisco,1951,14.06
+Manila,1952,26.94
+San Francisco,1952,14.11
+global,1952,8.64
+Columbus,1952,14.74
+Manila,1953,26.93
+Columbus,1953,14.98
+San Francisco,1953,14.42
+global,1953,8.87
+San Francisco,1954,14.18
+global,1954,8.56
+Columbus,1954,14.96
+Manila,1954,26.90
+San Francisco,1955,13.74
+Manila,1955,26.63
+Columbus,1955,14.63
+global,1955,8.63
+Manila,1956,26.69
+Columbus,1956,14.63
+San Francisco,1956,14.08
+global,1956,8.28
+Manila,1957,26.94
+Columbus,1957,14.82
+global,1957,8.73
+San Francisco,1957,14.59
+global,1958,8.77
+San Francisco,1958,15.41
+Columbus,1958,13.34
+Manila,1958,26.90
+global,1959,8.73
+Columbus,1959,14.71
+Manila,1959,27.00
+San Francisco,1959,15.39
+Columbus,1960,13.63
+global,1960,8.58
+San Francisco,1960,14.59
+Manila,1960,26.91
+San Francisco,1961,14.65
+global,1961,8.80
+Manila,1961,26.85
+Columbus,1961,13.92
+San Francisco,1962,14.22
+Columbus,1962,14.11
+global,1962,8.75
+Manila,1962,26.79
+Columbus,1963,13.44
+Manila,1963,26.49
+global,1963,8.86
+San Francisco,1963,14.19
+Manila,1964,26.83
+global,1964,8.41
+San Francisco,1964,14.24
+Columbus,1964,14.28
+global,1965,8.53
+San Francisco,1965,14.14
+Columbus,1965,14.40
+Manila,1965,26.63
+Columbus,1966,13.64
+San Francisco,1966,14.74
+global,1966,8.60
+Manila,1966,27.06
+global,1967,8.70
+San Francisco,1967,14.50
+Columbus,1967,13.82
+Manila,1967,26.52
+San Francisco,1968,14.66
+Manila,1968,26.66
+Columbus,1968,13.61
+global,1968,8.52
+global,1969,8.60
+Manila,1969,27.11
+San Francisco,1969,14.51
+Columbus,1969,13.59
+Columbus,1970,14.29
+global,1970,8.70
+San Francisco,1970,14.76
+Manila,1970,27.11
+Manila,1971,26.48
+Columbus,1971,14.38
+global,1971,8.60
+San Francisco,1971,13.89
+Columbus,1972,14.17
+global,1972,8.50
+Manila,1972,26.73
+San Francisco,1972,14.25
+Manila,1973,27.17
+Columbus,1973,14.84
+global,1973,8.95
+San Francisco,1973,14.58
+global,1974,8.47
+San Francisco,1974,14.41
+Manila,1974,26.72
+Columbus,1974,14.53
+Manila,1975,26.83
+San Francisco,1975,13.82
+Columbus,1975,14.62
+global,1975,8.74
+San Francisco,1976,14.72
+global,1976,8.35
+Manila,1976,26.53
+Columbus,1976,13.37
+Columbus,1977,14.19
+Manila,1977,26.87
+global,1977,8.85
+San Francisco,1977,14.63
+global,1978,8.69
+San Francisco,1978,14.96
+Columbus,1978,13.59
+Manila,1978,26.55
+global,1979,8.73
+Columbus,1979,13.64
+Manila,1979,26.84
+San Francisco,1979,14.99
+San Francisco,1980,14.74
+global,1980,8.98
+Columbus,1980,14.05
+Manila,1980,27.02
+Manila,1981,26.79
+Columbus,1981,13.80
+global,1981,9.17
+San Francisco,1981,15.22
+Manila,1982,26.77
+global,1982,8.64
+Columbus,1982,14.50
+San Francisco,1982,14.00
+global,1983,9.03
+San Francisco,1983,15.07
+Columbus,1983,14.04
+Manila,1983,27.21
+San Francisco,1984,14.97
+Manila,1984,26.77
+Columbus,1984,14.31
+global,1984,8.69
+Columbus,1985,14.39
+San Francisco,1985,14.23
+global,1985,8.66
+Manila,1985,26.95
+Columbus,1986,15.13
+Manila,1986,26.79
+global,1986,8.83
+San Francisco,1986,15.00
+Manila,1987,27.39
+global,1987,8.99
+San Francisco,1987,14.95
+Columbus,1987,14.85
+San Francisco,1988,15.08
+Manila,1988,27.42
+global,1988,9.20
+Columbus,1988,13.99
+global,1989,8.92
+Columbus,1989,13.89
+San Francisco,1989,14.45
+Manila,1989,26.73
+Columbus,1990,15.54
+Manila,1990,26.85
+global,1990,9.23
+San Francisco,1990,14.73
+San Francisco,1991,14.50
+Manila,1991,26.69
+Columbus,1991,15.31
+global,1991,9.18
+Manila,1992,26.72
+global,1992,8.84
+Columbus,1992,14.02
+San Francisco,1992,15.53
+global,1993,8.87
+San Francisco,1993,14.97
+Columbus,1993,14.21
+Manila,1993,26.87
+San Francisco,1994,14.21
+Manila,1994,26.89
+global,1994,9.04
+Columbus,1994,14.39
+Manila,1995,26.80
+global,1995,9.35
+San Francisco,1995,15.31
+Columbus,1995,14.39
+global,1996,9.04
+Columbus,1996,13.92
+San Francisco,1996,15.56
+Manila,1996,26.95
+San Francisco,1997,15.75
+Columbus,1997,14.15
+global,1997,9.20
+Manila,1997,26.99
+global,1998,9.52
+Columbus,1998,15.92
+San Francisco,1998,14.38
+Manila,1998,27.80
+Columbus,1999,15.28
+Manila,1999,27.07
+San Francisco,1999,14.41
+global,1999,9.29
+Manila,2000,27.02
+Columbus,2000,14.61
+San Francisco,2000,15.02
+global,2000,9.20
+Manila,2001,27.17
+global,2001,9.41
+Columbus,2001,14.98
+San Francisco,2001,15.25
+San Francisco,2002,15.00
+Columbus,2002,15.20
+global,2002,9.57
+Manila,2002,27.10
+Manila,2003,27.07
+San Francisco,2003,15.43
+global,2003,9.53
+Columbus,2003,14.40
+global,2004,9.32
+Manila,2004,27.09
+Columbus,2004,14.88
+San Francisco,2004,15.37
+global,2005,9.70
+San Francisco,2005,15.17
+Columbus,2005,14.87
+Manila,2005,27.12
+Manila,2006,27.23
+San Francisco,2006,15.02
+global,2006,9.53
+Columbus,2006,15.31
+Columbus,2007,15.35
+global,2007,9.73
+Manila,2007,27.21
+San Francisco,2007,14.94
+global,2008,9.43
+San Francisco,2008,15.05
+Manila,2008,26.94
+Columbus,2008,14.46
+Columbus,2009,14.46
+global,2009,9.51
+Manila,2009,26.92
+San Francisco,2009,15.02
+global,2010,9.70
+Columbus,2010,14.64
+San Francisco,2010,14.67
+Manila,2010,27.49
+Columbus,2011,15.24
+San Francisco,2011,14.50
+global,2011,9.52
+Manila,2011,26.82
+Manila,2012,27.34
+San Francisco,2012,15.05
+Columbus,2012,15.91
+global,2012,9.51
+Manila,2013,27.87
+global,2013,9.61
+Columbus,2013,16.05
+San Francisco,2013,16.23
+global,2014,9.57
+global,2015,9.83
